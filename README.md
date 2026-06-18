@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="250" alt="Coding Boy">
   
-  <h1 align="center">Hi there! I'm [mahbod] 👋</h1>
+  <h1 align="center">Hi there! I'm mahbod 👋</h1>
   <h3 align="center">A Back-End Developer who turns bugs into features (and coffee into code)! ☕💻</h3>
 </div>
 
@@ -39,7 +39,7 @@
  I might not have a million shiny projects to show off *yet*, but I have an absolute dedication to my craft. I prefer to let my commits do the talking
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[mahbodkhaldi60]&show_icons=true&theme=algolia&hide_border=true&title_color=00FF00&icon_color=4CAF50&text_color=A3B8CC&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahbodkhaldi60&show_icons=true&theme=algolia&hide_border=true&title_color=00FF00&icon_color=4CAF50&text_color=A3B8CC&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_GitHub_Username]&theme=algolia&hide_border=true&fire=00FF00&ring=4CAF50&currStreakNum=00FF00" alt="GitHub Streak" />
 </div>
