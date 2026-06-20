@@ -43,9 +43,9 @@
  I might not have a million shiny projects to show off *yet*, but I have an absolute dedication to my craft.
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahbodkhaldi60&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahbodkhaldi60&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbodkhaldi60&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbodkhaldi60&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
