@@ -53,13 +53,14 @@
 ### 📡 Radar / Contact
 <div align="center">
   <a href="mailto:mahbod.khaldi1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1E88E5?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="45" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/mahbodkhaldi007">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="45" height="45" alt="Telegram" />
   </a>
 </div>
+
 
 
 <br/>
