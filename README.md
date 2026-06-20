@@ -43,10 +43,11 @@
  I might not have a million shiny projects to show off *yet*, but I have an absolute dedication to my craft.
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahbodkhaldi60&show_icons=true&theme=algolia&hide_border=true&title_color=00FF00&icon_color=4CAF50&text_color=A3B8CC&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahbodkhaldi60&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbodkhaldi60&theme=algolia&hide_border=true&fire=00FF00&ring=4CAF50&currStreakNum=00FF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahbodkhaldi60&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
